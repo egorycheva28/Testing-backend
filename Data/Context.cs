@@ -1,9 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
-public class Context : DbContext
+using To_Do_List_backend.Models;
+namespace To_Do_List_backend.Data
 {
-    public Context(DbContextOptions<Context> options) : base(options)
-    { }
-    public DbSet<ToDoItem> ToDoItems { get; set; }
-    
+    public class Context : DbContext
+    {
+        public Context(DbContextOptions<Context> options) : base(options)
+        { }
+        public  virtual DbSet<ToDoItem> ToDoItems { get; set; }
+
+    }
 }

@@ -1,6 +1,11 @@
 ﻿using System;
+using To_Do_List_backend.Models;
 
-public class GetTasksDTO
+namespace To_Do_List_backend.DTO
 {
-	public List<ToDoItem> Tasks { get; set; }
+
+	public class GetTasksDTO
+	{
+		public List<ToDoItem> Tasks { get; set; }
+	}
 }

@@ -1,13 +1,15 @@
 ﻿using System;
-
-public enum Sorting
+namespace To_Do_List_backend.DTO
 {
-    StatusAsc,
-    StatusDesc,
-    PriorityAsc,
-    PriorityDesc,
-    DeadlineAsc,
-    DeadlineDesc,
-    CreateTimeAsc,
-    CreateTimeDesc
+    public enum Sorting
+    {
+        StatusAsc,
+        StatusDesc,
+        PriorityAsc,
+        PriorityDesc,
+        DeadlineAsc,
+        DeadlineDesc,
+        CreateTimeAsc,
+        CreateTimeDesc
+    }
 }

@@ -1,9 +1,11 @@
 ﻿using System;
-
-public enum Status
+namespace To_Do_List_backend.Models
 {
-    Active,
-    Completed,
-    Overdue,
-    Late
+    public enum Status
+    {
+        Active,
+        Completed,
+        Overdue,
+        Late
+    }
 }
