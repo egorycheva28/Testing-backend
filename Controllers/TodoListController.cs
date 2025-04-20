@@ -43,6 +43,10 @@ public class TodoListController : ControllerBase
         }
         catch (Exception ex)
         {
+            if (ex.Message == "Такой задачи нет")
+            {
+                return NotFound(ex.Message);
+            }
             if (ex.Message == "Введите данные")
             {
                 return BadRequest(ex.Message);

@@ -120,6 +120,10 @@ namespace To_Do_List_backend.Services
             {
                 throw new Exception("Такой задачи нет");
             }
+            if (editTask == null)
+            {
+                throw new Exception("Введите данные");
+            }
 
             task.Name = editTask.Name;
             task.Description = editTask.Description;
