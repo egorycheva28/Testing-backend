@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "+gwucPQUkZ9BoiVsAyBl5DPI0WMtIzU3aQEvINMZWgM=",
+  "Source": "To-Do-List.Tests",
+  "BasePath": "_content/To-Do-List.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Проекты\\тестирование\\To-Do-List-backend\\To-Do-List-backend.csproj",
+      "Version": 2,
+      "Source": "To-Do-List-backend",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

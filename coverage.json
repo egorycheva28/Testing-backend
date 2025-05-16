@@ -1,0 +1,2257 @@
+{
+  "To-Do-List-backend.dll": {
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Controllers\\TodoListController.cs": {
+      "TodoListController": {
+        "System.Void TodoListController::.ctor(IToDoListService)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "TodoListController/<AddTask>d__2": {
+        "System.Void TodoListController/<AddTask>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 214,
+              "EndOffset": 216,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 214,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<ChangeStatus>d__9": {
+        "System.Void TodoListController/<ChangeStatus>d__9::MoveNext()": {
+          "Lines": {
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "152": 0,
+            "154": 0
+          },
+          "Branches": [
+            {
+              "Line": 148,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 148,
+              "Offset": 186,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<CompleteTask>d__6": {
+        "System.Void TodoListController/<CompleteTask>d__6::MoveNext()": {
+          "Lines": {
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0,
+            "106": 0
+          },
+          "Branches": [
+            {
+              "Line": 100,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 186,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<DeleteTask>d__4": {
+        "System.Void TodoListController/<DeleteTask>d__4::MoveNext()": {
+          "Lines": {
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "70": 0
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 186,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<EditTask>d__3": {
+        "System.Void TodoListController/<EditTask>d__3::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "52": 0
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 192,
+              "EndOffset": 194,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 192,
+              "EndOffset": 220,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<GetList>d__8": {
+        "System.Void TodoListController/<GetList>d__8::MoveNext()": {
+          "Lines": {
+            "126": 0,
+            "128": 0,
+            "129": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "136": 0
+          },
+          "Branches": []
+        }
+      },
+      "TodoListController/<GetTask>d__5": {
+        "System.Void TodoListController/<GetTask>d__5::MoveNext()": {
+          "Lines": {
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "86": 0,
+            "88": 0
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 210,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 210,
+              "EndOffset": 243,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TodoListController/<InCompleteTask>d__7": {
+        "System.Void TodoListController/<InCompleteTask>d__7::MoveNext()": {
+          "Lines": {
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "121": 0,
+            "123": 0
+          },
+          "Branches": [
+            {
+              "Line": 117,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 117,
+              "Offset": 186,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "5": 0,
+            "7": 0,
+            "9": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 173,
+              "EndOffset": 193,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Services\\ToDoListService.cs": {
+      "To_Do_List_backend.Services.ToDoListService": {
+        "System.Void To_Do_List_backend.Services.ToDoListService::.ctor(To_Do_List_backend.Data.Context)": {
+          "Lines": {
+            "15": 59,
+            "16": 59,
+            "17": 59,
+            "18": 59
+          },
+          "Branches": []
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<>c": {
+        "To_Do_List_backend.Models.Status To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_0(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "319": 5
+          },
+          "Branches": []
+        },
+        "To_Do_List_backend.Models.Status To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_1(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "323": 5
+          },
+          "Branches": []
+        },
+        "To_Do_List_backend.Models.Priority To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_2(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "328": 5
+          },
+          "Branches": []
+        },
+        "To_Do_List_backend.Models.Priority To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_3(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "332": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_4(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "338": 5
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_5(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "342": 5
+          },
+          "Branches": []
+        },
+        "System.DateOnly To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_6(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "347": 5
+          },
+          "Branches": []
+        },
+        "System.DateOnly To_Do_List_backend.Services.ToDoListService/<>c::<GetList>b__12_7(To_Do_List_backend.Models.ToDoItem)": {
+          "Lines": {
+            "351": 5
+          },
+          "Branches": []
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<AddDeadline>d__3": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<AddDeadline>d__3::MoveNext()": {
+          "Lines": {
+            "55": 7,
+            "56": 7,
+            "57": 7,
+            "59": 7,
+            "60": 4,
+            "61": 4,
+            "62": 4,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "66": 4,
+            "68": 3,
+            "69": 3,
+            "70": 1,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "77": 1,
+            "78": 1,
+            "79": 3,
+            "80": 7,
+            "81": 7
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 62,
+              "Offset": 113,
+              "EndOffset": 115,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 62,
+              "Offset": 113,
+              "EndOffset": 166,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 59,
+              "Offset": 74,
+              "EndOffset": 172,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 69,
+              "Offset": 188,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 72,
+              "Offset": 271,
+              "EndOffset": 273,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 72,
+              "Offset": 271,
+              "EndOffset": 347,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 69,
+              "Offset": 188,
+              "EndOffset": 355,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<AddPriority>d__4": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<AddPriority>d__4::MoveNext()": {
+          "Lines": {
+            "83": 13,
+            "84": 13,
+            "86": 13,
+            "87": 4,
+            "88": 4,
+            "89": 4,
+            "90": 4,
+            "92": 9,
+            "93": 9,
+            "94": 1,
+            "95": 1,
+            "96": 1,
+            "97": 8,
+            "98": 1,
+            "99": 1,
+            "100": 1,
+            "101": 7,
+            "102": 1,
+            "103": 1,
+            "104": 1,
+            "105": 6,
+            "106": 1,
+            "107": 1,
+            "108": 1,
+            "110": 5,
+            "111": 5,
+            "112": 5,
+            "113": 9,
+            "114": 9,
+            "115": 13
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 86,
+              "Offset": 40,
+              "EndOffset": 124,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 9
+            },
+            {
+              "Line": 93,
+              "Offset": 148,
+              "EndOffset": 150,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 93,
+              "Offset": 148,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            },
+            {
+              "Line": 97,
+              "Offset": 195,
+              "EndOffset": 197,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 195,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 7
+            },
+            {
+              "Line": 101,
+              "Offset": 239,
+              "EndOffset": 241,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 101,
+              "Offset": 239,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 6
+            },
+            {
+              "Line": 105,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 105,
+              "Offset": 283,
+              "EndOffset": 302,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 5
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<AddTask>d__2": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<AddTask>d__2::MoveNext()": {
+          "Lines": {
+            "21": 5,
+            "22": 5,
+            "23": 1,
+            "24": 1,
+            "27": 4,
+            "28": 4,
+            "29": 4,
+            "30": 4,
+            "31": 4,
+            "33": 4,
+            "34": 4,
+            "36": 4,
+            "37": 4,
+            "38": 3,
+            "39": 3,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "44": 2,
+            "45": 2,
+            "46": 2,
+            "47": 3,
+            "49": 4,
+            "50": 4,
+            "52": 4,
+            "53": 4
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 22,
+              "Offset": 40,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 37,
+              "Offset": 187,
+              "EndOffset": 189,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 39,
+              "Offset": 218,
+              "EndOffset": 220,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 218,
+              "EndOffset": 223,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 39,
+              "Offset": 241,
+              "EndOffset": 243,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 241,
+              "EndOffset": 260,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 37,
+              "Offset": 187,
+              "EndOffset": 276,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<ChangeStatus>d__13": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<ChangeStatus>d__13::MoveNext()": {
+          "Lines": {
+            "364": 5,
+            "365": 5,
+            "366": 5,
+            "367": 1,
+            "368": 1,
+            "371": 4,
+            "373": 4,
+            "374": 3,
+            "375": 3,
+            "376": 1,
+            "377": 1,
+            "378": 1,
+            "379": 3,
+            "381": 4,
+            "382": 4
+          },
+          "Branches": [
+            {
+              "Line": 366,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 366,
+              "Offset": 197,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 373,
+              "Offset": 251,
+              "EndOffset": 253,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 375,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 375,
+              "Offset": 282,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 375,
+              "Offset": 305,
+              "EndOffset": 307,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 375,
+              "Offset": 305,
+              "EndOffset": 322,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 373,
+              "Offset": 251,
+              "EndOffset": 323,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<CompleteTask>d__10": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<CompleteTask>d__10::MoveNext()": {
+          "Lines": {
+            "250": 5,
+            "251": 5,
+            "252": 5,
+            "253": 1,
+            "254": 1,
+            "257": 4,
+            "259": 4,
+            "260": 3,
+            "261": 3,
+            "262": 2,
+            "263": 2,
+            "264": 2,
+            "267": 1,
+            "268": 1,
+            "269": 1,
+            "270": 3,
+            "272": 1,
+            "273": 1,
+            "274": 1,
+            "277": 4,
+            "279": 4,
+            "280": 4
+          },
+          "Branches": [
+            {
+              "Line": 252,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 252,
+              "Offset": 197,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 259,
+              "Offset": 251,
+              "EndOffset": 253,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 261,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 261,
+              "Offset": 282,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 261,
+              "Offset": 305,
+              "EndOffset": 307,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 261,
+              "Offset": 305,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 259,
+              "Offset": 251,
+              "EndOffset": 342,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<DeleteTask>d__8": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<DeleteTask>d__8::MoveNext()": {
+          "Lines": {
+            "217": 3,
+            "218": 3,
+            "219": 3,
+            "220": 1,
+            "221": 1,
+            "224": 2,
+            "225": 2,
+            "226": 2
+          },
+          "Branches": [
+            {
+              "Line": 219,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 219,
+              "Offset": 197,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<EditDeadline>d__6": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<EditDeadline>d__6::MoveNext()": {
+          "Lines": {
+            "150": 11,
+            "151": 11,
+            "152": 11,
+            "154": 11,
+            "155": 8,
+            "156": 8,
+            "157": 8,
+            "158": 1,
+            "159": 1,
+            "160": 1,
+            "161": 8,
+            "163": 3,
+            "164": 3,
+            "165": 1,
+            "166": 1,
+            "167": 1,
+            "168": 1,
+            "169": 1,
+            "170": 1,
+            "171": 1,
+            "172": 1,
+            "173": 1,
+            "174": 3,
+            "175": 11
+          },
+          "Branches": [
+            {
+              "Line": 154,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 157,
+              "Offset": 113,
+              "EndOffset": 115,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 157,
+              "Offset": 113,
+              "EndOffset": 166,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            },
+            {
+              "Line": 154,
+              "Offset": 74,
+              "EndOffset": 172,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 164,
+              "Offset": 188,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 167,
+              "Offset": 271,
+              "EndOffset": 273,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 167,
+              "Offset": 271,
+              "EndOffset": 347,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 164,
+              "Offset": 188,
+              "EndOffset": 355,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<EditPriority>d__7": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<EditPriority>d__7::MoveNext()": {
+          "Lines": {
+            "177": 11,
+            "178": 11,
+            "180": 11,
+            "181": 11,
+            "182": 11,
+            "183": 11,
+            "184": 4,
+            "185": 4,
+            "186": 4,
+            "187": 11,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 11
+          },
+          "Branches": [
+            {
+              "Line": 180,
+              "Offset": 34,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 11
+            },
+            {
+              "Line": 183,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 10
+            },
+            {
+              "Line": 183,
+              "Offset": 115,
+              "EndOffset": 117,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 9
+            },
+            {
+              "Line": 183,
+              "Offset": 138,
+              "EndOffset": 140,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 8
+            },
+            {
+              "Line": 183,
+              "Offset": 92,
+              "EndOffset": 163,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 183,
+              "Offset": 115,
+              "EndOffset": 163,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 183,
+              "Offset": 138,
+              "EndOffset": 163,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 183,
+              "Offset": 166,
+              "EndOffset": 168,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 4
+            },
+            {
+              "Line": 183,
+              "Offset": 166,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 11
+            },
+            {
+              "Line": 180,
+              "Offset": 34,
+              "EndOffset": 220,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 190,
+              "Offset": 246,
+              "EndOffset": 248,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 190,
+              "Offset": 246,
+              "EndOffset": 312,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 195,
+              "Offset": 337,
+              "EndOffset": 339,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 195,
+              "Offset": 337,
+              "EndOffset": 403,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 200,
+              "Offset": 428,
+              "EndOffset": 430,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 200,
+              "Offset": 428,
+              "EndOffset": 491,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 205,
+              "Offset": 516,
+              "EndOffset": 518,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 205,
+              "Offset": 516,
+              "EndOffset": 579,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<EditTask>d__5": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<EditTask>d__5::MoveNext()": {
+          "Lines": {
+            "117": 12,
+            "118": 12,
+            "119": 12,
+            "120": 1,
+            "121": 1,
+            "124": 11,
+            "125": 11,
+            "126": 11,
+            "127": 11,
+            "129": 11,
+            "130": 11,
+            "132": 11,
+            "133": 11,
+            "134": 9,
+            "135": 9,
+            "136": 2,
+            "137": 2,
+            "138": 2,
+            "139": 9,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 9,
+            "145": 11,
+            "147": 11,
+            "148": 11
+          },
+          "Branches": [
+            {
+              "Line": 119,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 119,
+              "Offset": 197,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11
+            },
+            {
+              "Line": 133,
+              "Offset": 400,
+              "EndOffset": 405,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 9
+            },
+            {
+              "Line": 135,
+              "Offset": 417,
+              "EndOffset": 419,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 9
+            },
+            {
+              "Line": 135,
+              "Offset": 447,
+              "EndOffset": 449,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 447,
+              "EndOffset": 452,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 9
+            },
+            {
+              "Line": 135,
+              "Offset": 417,
+              "EndOffset": 468,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 473,
+              "EndOffset": 475,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 2
+            },
+            {
+              "Line": 135,
+              "Offset": 473,
+              "EndOffset": 490,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 9
+            },
+            {
+              "Line": 139,
+              "Offset": 502,
+              "EndOffset": 504,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 139,
+              "Offset": 532,
+              "EndOffset": 534,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 532,
+              "EndOffset": 537,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 2
+            },
+            {
+              "Line": 139,
+              "Offset": 502,
+              "EndOffset": 553,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 7
+            },
+            {
+              "Line": 139,
+              "Offset": 558,
+              "EndOffset": 560,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 558,
+              "EndOffset": 575,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 9
+            },
+            {
+              "Line": 133,
+              "Offset": 400,
+              "EndOffset": 576,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 11
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<GetList>d__12": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<GetList>d__12::MoveNext()": {
+          "Lines": {
+            "313": 9,
+            "314": 9,
+            "317": 9,
+            "318": 1,
+            "320": 1,
+            "321": 8,
+            "322": 1,
+            "324": 1,
+            "326": 7,
+            "327": 1,
+            "329": 1,
+            "330": 6,
+            "331": 1,
+            "333": 1,
+            "336": 5,
+            "337": 1,
+            "339": 1,
+            "340": 4,
+            "341": 1,
+            "343": 1,
+            "345": 3,
+            "346": 1,
+            "348": 1,
+            "349": 2,
+            "350": 1,
+            "352": 1,
+            "354": 9,
+            "355": 9,
+            "356": 9,
+            "357": 9,
+            "360": 9,
+            "361": 9
+          },
+          "Branches": [
+            {
+              "Line": 317,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 317,
+              "Offset": 194,
+              "EndOffset": 256,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            },
+            {
+              "Line": 321,
+              "Offset": 274,
+              "EndOffset": 276,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 321,
+              "Offset": 274,
+              "EndOffset": 336,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 7
+            },
+            {
+              "Line": 326,
+              "Offset": 354,
+              "EndOffset": 356,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 326,
+              "Offset": 354,
+              "EndOffset": 416,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 330,
+              "Offset": 434,
+              "EndOffset": 436,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 330,
+              "Offset": 434,
+              "EndOffset": 496,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 5
+            },
+            {
+              "Line": 336,
+              "Offset": 538,
+              "EndOffset": 540,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 336,
+              "Offset": 538,
+              "EndOffset": 600,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 4
+            },
+            {
+              "Line": 340,
+              "Offset": 618,
+              "EndOffset": 620,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 340,
+              "Offset": 618,
+              "EndOffset": 680,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 3
+            },
+            {
+              "Line": 345,
+              "Offset": 698,
+              "EndOffset": 700,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 345,
+              "Offset": 698,
+              "EndOffset": 757,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 2
+            },
+            {
+              "Line": 349,
+              "Offset": 775,
+              "EndOffset": 777,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 1
+            },
+            {
+              "Line": 349,
+              "Offset": 775,
+              "EndOffset": 832,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 9
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<GetTask>d__9": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<GetTask>d__9::MoveNext()": {
+          "Lines": {
+            "228": 3,
+            "229": 3,
+            "230": 3,
+            "231": 1,
+            "232": 1,
+            "235": 2,
+            "236": 2,
+            "237": 2,
+            "238": 2,
+            "239": 2,
+            "240": 2,
+            "241": 2,
+            "242": 2,
+            "243": 2,
+            "244": 2,
+            "245": 2,
+            "247": 2,
+            "248": 2
+          },
+          "Branches": [
+            {
+              "Line": 230,
+              "Offset": 187,
+              "EndOffset": 189,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 230,
+              "Offset": 187,
+              "EndOffset": 201,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "To_Do_List_backend.Services.ToDoListService/<InCompleteTask>d__11": {
+        "System.Void To_Do_List_backend.Services.ToDoListService/<InCompleteTask>d__11::MoveNext()": {
+          "Lines": {
+            "282": 5,
+            "283": 5,
+            "284": 5,
+            "285": 1,
+            "286": 1,
+            "289": 4,
+            "291": 4,
+            "292": 3,
+            "293": 3,
+            "294": 2,
+            "295": 2,
+            "296": 2,
+            "299": 1,
+            "300": 1,
+            "301": 1,
+            "302": 3,
+            "304": 1,
+            "305": 1,
+            "306": 1,
+            "308": 4,
+            "310": 4,
+            "311": 4
+          },
+          "Branches": [
+            {
+              "Line": 284,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 284,
+              "Offset": 197,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 291,
+              "Offset": 251,
+              "EndOffset": 253,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 293,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 293,
+              "Offset": 282,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 293,
+              "Offset": 305,
+              "EndOffset": 307,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 293,
+              "Offset": 305,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 291,
+              "Offset": 251,
+              "EndOffset": 342,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Models\\ToDoItem.cs": {
+      "To_Do_List_backend.Models.ToDoItem": {
+        "System.Guid To_Do_List_backend.Models.ToDoItem::get_Id()": {
+          "Lines": {
+            "11": 79
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.Models.ToDoItem::get_Name()": {
+          "Lines": {
+            "14": 211
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.Models.ToDoItem::get_Description()": {
+          "Lines": {
+            "15": 66
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.Models.ToDoItem::get_Deadline()": {
+          "Lines": {
+            "16": 151
+          },
+          "Branches": []
+        },
+        "To_Do_List_backend.Models.Status To_Do_List_backend.Models.ToDoItem::get_Status()": {
+          "Lines": {
+            "18": 116
+          },
+          "Branches": []
+        },
+        "To_Do_List_backend.Models.Priority To_Do_List_backend.Models.ToDoItem::get_Priority()": {
+          "Lines": {
+            "20": 120
+          },
+          "Branches": []
+        },
+        "System.DateOnly To_Do_List_backend.Models.ToDoItem::get_CreateTime()": {
+          "Lines": {
+            "22": 188
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.Models.ToDoItem::get_EditTime()": {
+          "Lines": {
+            "23": 46
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250322130124_CreateDatabase.cs": {
+      "To_Do_List_backend.Migrations.CreateDatabase": {
+        "System.Void To_Do_List_backend.Migrations.CreateDatabase::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.Void To_Do_List_backend.Migrations.CreateDatabase::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250322130124_CreateDatabase.Designer.cs": {
+      "To_Do_List_backend.Migrations.CreateDatabase": {
+        "System.Void To_Do_List_backend.Migrations.CreateDatabase::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250405045202_ChangePriority.cs": {
+      "To_Do_List_backend.Migrations.ChangePriority": {
+        "System.Void To_Do_List_backend.Migrations.ChangePriority::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void To_Do_List_backend.Migrations.ChangePriority::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250405045202_ChangePriority.Designer.cs": {
+      "To_Do_List_backend.Migrations.ChangePriority": {
+        "System.Void To_Do_List_backend.Migrations.ChangePriority::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250405152502_ChangeDate.cs": {
+      "To_Do_List_backend.Migrations.ChangeDate": {
+        "System.Void To_Do_List_backend.Migrations.ChangeDate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void To_Do_List_backend.Migrations.ChangeDate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250405152502_ChangeDate.Designer.cs": {
+      "To_Do_List_backend.Migrations.ChangeDate": {
+        "System.Void To_Do_List_backend.Migrations.ChangeDate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250408161354_ChangeEditDate.cs": {
+      "To_Do_List_backend.Migrations.ChangeEditDate": {
+        "System.Void To_Do_List_backend.Migrations.ChangeEditDate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void To_Do_List_backend.Migrations.ChangeEditDate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\20250408161354_ChangeEditDate.Designer.cs": {
+      "To_Do_List_backend.Migrations.ChangeEditDate": {
+        "System.Void To_Do_List_backend.Migrations.ChangeEditDate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Migrations\\ContextModelSnapshot.cs": {
+      "To_Do_List_backend.Migrations.ContextModelSnapshot": {
+        "System.Void To_Do_List_backend.Migrations.ContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\DTO\\EditTaskDTO.cs": {
+      "To_Do_List_backend.DTO.EditTaskDTO": {
+        "System.String To_Do_List_backend.DTO.EditTaskDTO::get_Name()": {
+          "Lines": {
+            "11": 39
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.EditTaskDTO::get_Description()": {
+          "Lines": {
+            "12": 22
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.DTO.EditTaskDTO::get_Deadline()": {
+          "Lines": {
+            "13": 30
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<To_Do_List_backend.Models.Priority> To_Do_List_backend.DTO.EditTaskDTO::get_Priority()": {
+          "Lines": {
+            "14": 33
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\DTO\\GetTaskDTO.cs": {
+      "To_Do_List_backend.DTO.GetTaskDTO": {
+        "System.Guid To_Do_List_backend.DTO.GetTaskDTO::get_Id()": {
+          "Lines": {
+            "8": 4
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.GetTaskDTO::get_Name()": {
+          "Lines": {
+            "11": 4
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.GetTaskDTO::get_Description()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.DTO.GetTaskDTO::get_Deadline()": {
+          "Lines": {
+            "13": 2
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.GetTaskDTO::get_Status()": {
+          "Lines": {
+            "15": 4
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.GetTaskDTO::get_Priority()": {
+          "Lines": {
+            "17": 4
+          },
+          "Branches": []
+        },
+        "System.DateOnly To_Do_List_backend.DTO.GetTaskDTO::get_CreateTime()": {
+          "Lines": {
+            "19": 4
+          },
+          "Branches": []
+        },
+        "System.DateOnly To_Do_List_backend.DTO.GetTaskDTO::get_EditTime()": {
+          "Lines": {
+            "21": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\DTO\\GetTasksDTO.cs": {
+      "To_Do_List_backend.DTO.GetTasksDTO": {
+        "System.Collections.Generic.List`1<To_Do_List_backend.Models.ToDoItem> To_Do_List_backend.DTO.GetTasksDTO::get_Tasks()": {
+          "Lines": {
+            "9": 59
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\DTO\\NewItemDTO.cs": {
+      "To_Do_List_backend.DTO.NewItemDTO": {
+        "System.String To_Do_List_backend.DTO.NewItemDTO::get_Name()": {
+          "Lines": {
+            "12": 63
+          },
+          "Branches": []
+        },
+        "System.String To_Do_List_backend.DTO.NewItemDTO::get_Description()": {
+          "Lines": {
+            "13": 32
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateOnly> To_Do_List_backend.DTO.NewItemDTO::get_Deadline()": {
+          "Lines": {
+            "14": 18
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<To_Do_List_backend.Models.Priority> To_Do_List_backend.DTO.NewItemDTO::get_Priority()": {
+          "Lines": {
+            "15": 21
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Проекты\\тестирование\\To-Do-List-backend\\Data\\Context.cs": {
+      "To_Do_List_backend.Data.Context": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<To_Do_List_backend.Models.ToDoItem> To_Do_List_backend.Data.Context::get_ToDoItems()": {
+          "Lines": {
+            "9": 300
+          },
+          "Branches": []
+        },
+        "System.Void To_Do_List_backend.Data.Context::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<To_Do_List_backend.Data.Context>)": {
+          "Lines": {
+            "7": 59,
+            "8": 118
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

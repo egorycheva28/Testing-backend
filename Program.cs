@@ -1,62 +1,25 @@
-using Microsoft.EntityFrameworkCore;
-using To_Do_List_backend.Services;
-using To_Do_List_backend.Data;
-using Microsoft.CodeAnalysis.Elfie.Diagnostics;
+var builder = WebApplication.CreateBuilder(args);
 
-namespace To_Do_List_backend.Program
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-
-            var builder = WebApplication.CreateBuilder(args);
-
-            var connection = builder.Configuration.GetConnectionString("DefaultConnection");
-
-            builder.Services.AddDbContext<Context>(options => options.UseNpgsql(connection));
-
-            builder.Services.AddControllers();
-
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen(); //свагер
-
-            builder.Services.AddScoped<IToDoListService, ToDoListService>();
-
-            builder.Services.AddCors(options =>
-            {
-                options.AddDefaultPolicy(policy =>
-                {
-                    policy.AllowAnyOrigin();
-                    policy.AllowAnyHeader();
-                    policy.AllowAnyMethod();
-                });
-            });
-
-            var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment()) //свагер
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-            app.UseRouting();
-
-            app.UseCors();
-
-            app.MapControllers();
-
-            app.Run();
-
-        }
-    }
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
-/*using var serviceScope = app.Services.CreateScope();
+app.UseHttpsRedirection();
 
-var context = serviceScope.ServiceProvider.GetService<Context>();
+app.UseAuthorization();
 
-context?.Database.Migrate();*/
+app.MapControllers();
+
+app.Run();
