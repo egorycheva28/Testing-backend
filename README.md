@@ -24,7 +24,5 @@ API-тесты, покрывающие часть приложения, взаи
 <ul>
   <li>.NET</li>
   <li>PostgreSQL</li>
-  <li>xUnit (для тестов)</li>
-  <li>cypress (для тестов)</li>
-  <li>cypress (для тестов)</li>
+  <li>Xunit (для тестов)</li>
 </ul>
